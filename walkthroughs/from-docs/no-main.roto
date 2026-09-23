@@ -1,0 +1,4 @@
+// #!/usr/bin/env roto  ... someday
+
+// no main()? won't run
+fn start() { print("no-main.roto"); }

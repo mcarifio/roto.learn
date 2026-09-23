@@ -1,0 +1,11 @@
+// #!/usr/bin/env roto  ... someday
+
+fn self() {
+    // future carif: get the rest of the command line?
+    print(argv);
+}
+
+fn main() {
+    self();
+}
+    

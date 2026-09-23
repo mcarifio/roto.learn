@@ -1,0 +1,4 @@
+// #!/usr/bin/env roto  ... someday
+
+// `roto run` always enters main() first
+fn main() { print("hw0.roto"); }

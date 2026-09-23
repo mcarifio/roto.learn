@@ -1,0 +1,5 @@
+// #!/usr/bin/env roto  ... someday
+
+fn say(msg:String) { print(msg); }
+
+fn main() { say("hw1.roto"); }

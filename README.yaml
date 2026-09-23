@@ -1,14 +1,15 @@
-this:
-    topic:
+here:
+    about:
 	id: roto
-	about: a statically-typed, compiled, embedded scripting language
-	references:
+	description: a statically-typed, compiled, embedded scripting language
+	refs:
 	   doc: https://roto.docs.nlnetlabs.nl/en/stable/
     repo:
         description: Explore an alternative to typescript for rust app scripting and configuration
-	for: fun
-	url: git+https://github.com/mcarifio/roto.learn.git
+	url: https://github.com/mcarifio/roto.learn.git
 	about: README.yaml.md
+	purpose: fun
+
 
 	    
 

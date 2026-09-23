@@ -1,7 +1,15 @@
-topic:
-    id: roto
-    title: a statically-typed, compiled, embedded scripting language
-    url: https://roto.docs.nlnetlabs.nl/en/stable/
-    content: |
-        Explore an alternative to typescript for rust app scripting and configuration
-	
+this:
+    topic:
+	id: roto
+	about: a statically-typed, compiled, embedded scripting language
+	references:
+	   doc: https://roto.docs.nlnetlabs.nl/en/stable/
+    repo:
+        description: Explore an alternative to typescript for rust app scripting and configuration
+	for: fun
+	url: git+https://github.com/mcarifio/roto.learn.git
+	about: README.yaml.md
+
+	    
+
+    	
